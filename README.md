@@ -1,5 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+# Adventure Open Frame
+Choose your own adventure in an Open Frame.
+## Preview
+Play it on Warpcast or on any Open Frame compatible platform - [Live link](https://far-chi.vercel.app/)
 ## Getting Started
 
 First, run the development server:

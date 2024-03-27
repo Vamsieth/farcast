@@ -1,7 +1,11 @@
 # Adventure Open Frame
 Choose your own adventure in an Open Frame.
 ## Preview
+![Adventure-open-frame](https://github.com/Vamsieth/farcast/assets/121611896/06f15adf-1054-487e-8746-1c24ca931135)
+
 Play it on Warpcast or on any Open Frame compatible platform - [Live link](https://far-chi.vercel.app/)
+
+View it here - https://warpcast.com/vamsi/0x03b3b7af
 ## Getting Started
 
 First, run the development server:
